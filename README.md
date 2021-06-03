@@ -5,3 +5,5 @@ Me siga aqui no [GitHub](https://github.com/rico-hoffmann) ou  nas [minhas redes
 *Meu primeiro projeto de Business Intelligence aqui no GitHub.*. *Todos os dados apresentados são fictícios de uma empresa fictícia, apenas para fins de demonstração e apresentação de porttfolio.*
 
 # Análise das necessidades
+
+- ### O objetivo da análise de BI nesse projeto são para obter os seguintes conhecimentos e resultados do ano de 2019:
