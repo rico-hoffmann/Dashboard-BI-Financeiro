@@ -7,3 +7,5 @@ Me siga aqui no [GitHub](https://github.com/rico-hoffmann) ou  nas [minhas redes
 # Análise das necessidades
 
 <img src="https://docs.google.com/uc?id=1MyU9CnKnCbuRTPiN_x-KrExqnEkokjXK" width="100%" height="100%">
+
+<img src="https://docs.google.com/uc?id=1hdfVwipExh0dfBsRjO_Dj4urKrnjQ4ev" width="100%" height="100%">
