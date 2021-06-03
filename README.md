@@ -7,3 +7,4 @@ Me siga aqui no [GitHub](https://github.com/rico-hoffmann) ou  nas [minhas redes
 # Análise das necessidades
 
 - ### O objetivo da análise de BI nesse projeto são para obter os seguintes conhecimentos e resultados do ano de 2019:
+<img src="https://docs.google.com/uc?id=1MyU9CnKnCbuRTPiN_x-KrExqnEkokjXK" width="80%" height="80%" Title="Receitas x Custos x Margem">
