@@ -6,5 +6,4 @@ Me siga aqui no [GitHub](https://github.com/rico-hoffmann) ou  nas [minhas redes
 
 # Análise das necessidades
 
-
-![alt text](https://photos.google.com/share/AF1QipPyGDsZ8r2DJYBziyLKBtOkIaoQSNTyFnjcc_9FIz59o_8llzlSQQdcPuOJOl2AgQ/photo/AF1QipMQnZtge4tmLww40oGB9W70np5jfxsbTybCdvxz?key=bVQtTWJzbEhJaUd4MnF1MmVLSzNZQm95Mlp6WFN3.jpg)
+<img src="https://docs.google.com/uc?id=1MyU9CnKnCbuRTPiN_x-KrExqnEkokjXK" width="100%" height="100%">
