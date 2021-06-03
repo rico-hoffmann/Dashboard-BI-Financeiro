@@ -1,5 +1,4 @@
-[![author](https://www.linkedin.com/in/jo%C3%A3o-ricardo-hoffmann/)]
-
+[Autor] (https://www.linkedin.com/in/jo%C3%A3o-ricardo-hoffmann/)
 
 nanceiro-
 
