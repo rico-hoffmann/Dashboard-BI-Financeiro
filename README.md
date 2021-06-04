@@ -117,4 +117,4 @@ Continuando ainda na primeira página, clicando no outro botão "Decomposição"
 5. Das equipes de venda, a equipe do Varejo foi a quem mais teve vendas por receita, e da equipe, a vendedora Carla Ferreira, foi a quem mais vendeu;
 6. Considerando todo o fluxo de caixa, outubro foi o melhor mês para a empresa.
 
-## Se gostou e que conferir como funciona, acesse o [Dashboard Financeiro](https://bit.ly/dashboard_financeiro_jrsolucoes) e navegue por todas as telas, clicando nos gráficos e tabelas para filtrar o painel e conferir toda a sua interatividade.
+## Se gostou e quer conferir como funciona, acesse o [Dashboard Financeiro](https://bit.ly/dashboard_financeiro_jrsolucoes) e navegue por todas as telas, clicando nos gráficos e tabelas para filtrar o painel e conferir toda a sua interatividade. Faça algumas simulações de cenário pra ver como funciona.
