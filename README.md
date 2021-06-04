@@ -58,7 +58,7 @@ as Receitas, Margem Bruta ou % de Margem Bruta por Grupo de Produto, Linha de Pr
 </b>
 
 <p align="center">
-    <img src="https://docs.google.com/uc?id=1OPsD7ReAo1ud6Vb4pXgEoGK2OikEtGf4" width="100%" height="100%" Title="Árvore Decomposição"></img>
+    <img src="https://docs.google.com/uc?id=11_nPyQUQKBwoCS3qjs_p3O1dK-u-Cflk" width="100%" height="100%" Title="Árvore Decomposição"></img>
 </p>
 
 * *Clique na imagem para ver em tela cheia*
