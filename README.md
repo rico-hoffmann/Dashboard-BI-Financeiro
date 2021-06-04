@@ -24,7 +24,7 @@ Todos os dados apresentados são fictícios de uma empresa fictícia, apenas par
 
 
 <p align="center">
-    <img src="https://docs.google.com/uc?id=1MyU9CnKnCbuRTPiN_x-KrExqnEkokjXK" width="80%" height="80%" Title="Receitas x Custos x Margem">
+    <img src="https://docs.google.com/uc?id=1MyU9CnKnCbuRTPiN_x-KrExqnEkokjXK" width="100%" height="100%" Title="Receitas x Custos x Margem">
 </p>
 
 * *Clique na imagem para ver em tela cheia*
