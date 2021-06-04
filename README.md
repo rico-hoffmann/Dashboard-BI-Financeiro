@@ -101,4 +101,4 @@ as Receitas, Margem Bruta ou % de Margem Bruta por Grupo de Produto, Linha de Pr
     <img src="https://docs.google.com/uc?id=1mso7-2MTf7ZXQZGTDP9l0F-acEH7sY_b" width="100%" height="100%" Title="Simulador Financeiro"></img>
 </p>
 
-* *Clique na imagem para ver em tela cheia*
+* *Clique na imagem para ver em tela cheia *
