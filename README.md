@@ -7,5 +7,5 @@ Me siga aqui no [GitHub](https://github.com/rico-hoffmann) ou  nas [minhas redes
 # Análise das necessidades
 
 <center>
-<img class="displayed" src="https://docs.google.com/uc?id=1MyU9CnKnCbuRTPiN_x-KrExqnEkokjXK" width="80%" height="80%" Title="Receitas x Custos x Margem""..." alt="...">
+<img class="displayed" src="https://docs.google.com/uc?id=1MyU9CnKnCbuRTPiN_x-KrExqnEkokjXK" width="80%" height="80%" Title="Receitas x Custos x Margem" align="midle">
 </center>
