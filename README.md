@@ -5,7 +5,4 @@ Me siga aqui no [GitHub](https://github.com/rico-hoffmann) ou  nas [minhas redes
 *Meu primeiro projeto de Business Intelligence aqui no GitHub.*. *Todos os dados apresentados são fictícios de uma empresa fictícia, apenas para fins de demonstração e apresentação de porttfolio.*
 
 # Análise das necessidades
-
-<p align="center">
-<img class="displayed" src="https://docs.google.com/uc?id=1MyU9CnKnCbuRTPiN_x-KrExqnEkokjXK" width="80%" height="80%" Title="Receitas x Custos x Margem" align="midle">
-</p>
+:# Análise das Necessidades:
