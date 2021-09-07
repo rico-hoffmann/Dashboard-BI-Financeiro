@@ -88,7 +88,7 @@ Continuando ainda na primeira página, clicando no outro botão "Decomposição"
 
 - #### Na terceira página, é apresentado um simulador de cenários financeiros, nela podemos ver as seguintes informações:
 1. Valor consolidado de receita, custos, despesas, valor do lucro e % de lucro do ano a partir da simulação feita;
-2. Os slicers (barrinhas) que farão as simulações de novos cenários, que podem variar entre -100% e 100% partir da quantidade vendida, preço unitário, custo unitário e as despesas geradas;
+2. Os slicers (barrinhas) que farão as simulações de novos cenários, que podem variar entre -100% e 100% a partir da quantidade vendida, preço unitário, custo unitário e as despesas geradas;
 3. Tabela com os valores sumulados acima vistos por mês.
 
 <br />
